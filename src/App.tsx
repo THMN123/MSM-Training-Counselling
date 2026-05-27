@@ -1082,7 +1082,9 @@ export default function App() {
               </div>
               <div className="text-left">
                 <span className="block font-bold text-white text-xs tracking-wider uppercase">MSM Training Company and Counselling services</span>
-                <span className="block text-[11px] text-slate-400">© 2026 The Success Masters. All Rights Reserved.</span>
+                <span className="block text-[11px] text-slate-400">
+                  © 2026 The Success Masters. All Rights Reserved. | Made by <a href="https://apex.dev" target="_blank" rel="noreferrer noopener" className="hover:text-lime-light transition-colors underline font-medium">apex.dev</a>
+                </span>
               </div>
             </div>
 
