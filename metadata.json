@@ -1,0 +1,6 @@
+{
+  "name": "MSM Training Company and Counselling services",
+  "description": "Professional training, financial motivation, and corporate/personal counselling services by Mohau Mosoeunyane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
